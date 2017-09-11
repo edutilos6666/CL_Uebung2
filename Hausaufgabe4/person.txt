@@ -1,0 +1,3 @@
+name = foo;age = 10;wage = 100.0
+name = bar;age = 20;wage = 200.0
+name = bim;age = 30;wage = 300.0

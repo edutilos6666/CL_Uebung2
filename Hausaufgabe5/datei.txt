@@ -1,0 +1,15 @@
+1 Das deutsche Alphabet ist ein Alphabet ,
+2 das zur Schreibung der deutschen Sprache verwendet wird.
+3 Es ist in Deutschland ,  Österreich ,
+4 der Schweiz sowie in Liechtenstein und Luxemburg in Gebrauch ,
+5 darüber hinaus in Ländern mit deutschsprachigen Minderheiten wie Belgien ,
+6 Dänemark  ( Nordschleswig )  ,  Italien  ( Südtirol )  und Polen  ( Oberschlesien ) .
+9 Das deutsche Alphabet ist eine Erweiterung des lateinischen Alphabets.
+Im heutigen standardisierten Gebrauch umfasst es die 26 Grundbuchstaben des
+0 lateinischen Alphabets ,
+2 die drei Umlaute  ( Ä ,  Ö ,  Ü )  sowie das Eszett  ( ß ) .
+3 In der Schweiz und in Liechtenstein wird das ß jedoch heute nicht mehr verwendet
+( stattdessen wird ss geschrieben ) .
+5 Das große ß  ( ẞ )  ist in der Tabelle eingeklammert ,
+7 weil seine Zugehörigkeit zum deutschen Alphabet nicht allgemein anerkannt ist
+( siehe unten Bewertung des großen ß ) .

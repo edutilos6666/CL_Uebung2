@@ -1,0 +1,4 @@
+set_def wurde aufgerufen.
+get_def wurde aufgrefuen.
+del_def wurde aufgerufen.
+get_def wurde aufgrefuen.
